@@ -1,4 +1,4 @@
-# Welcome to the official repository of Astronomy Club, IIT Kanpur! :artificial_satellite:
+# Welcome to the official repository of Astronomy Club, IIT Kanpur!
 
 We are a group of highly enthusiastic students from IIT Kanpur who share a common interest of Astronomy and Astrophysics. We do not have any formal background in Astronomy, but are passionate about what our universe has to offer. Some of us do aspire to carry on this passion to a research career in Astrophysics.
 
