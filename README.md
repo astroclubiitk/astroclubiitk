@@ -13,12 +13,13 @@ In case of any query feel free to reach out any of the coordinators:
 [`Gurbaaz Singh Nandra`](https://github.com/gurbaaz27) [💬](mailto:gurbaaz@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Varun Muralidharan`](https://github.com/Varun2501) [💬](mailto:varunmu@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Sunny Kumar Bhagat`](https://github.com) [💬](mailto:sunny@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
-
-Happy Stargazing! 🌠
 </p>
+Happy Stargazing! 🌠 
+
+------------------------------
 
 <p align="center">
-Want to remain in touch with the upcoming and exciting events? Connect with us!<br><br>
+Want to remain in touch with the upcoming and exciting events? Connect with us! <br> <br>
 <a href="https://astroclubiitk.github.io" >
 <img src="https://img.shields.io/badge/-Visit_Our_Homepage-0697AE?style=flat-square&logo=appveyor&logoColor=white&link=https://astroclubiitk.github.io"></img>
 </a>
@@ -38,5 +39,3 @@ Want to remain in touch with the upcoming and exciting events? Connect with us!<
 <img src="https://img.shields.io/github/followers/astroclubiitk?label=follow&style=social" />
 </a> 
 </p>
-
----
