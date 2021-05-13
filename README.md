@@ -1,4 +1,4 @@
-<img src="https://github.com/astroclubiitk/astroclubiitk/blob/main/banner_top.png" alt="WordCloud" width="100%">
+<img src="https://github.com/astroclubiitk/astroclubiitk/blob/main/banner-github.png" alt="WordCloud" width="100%">
 
 # Welcome to the official repository of Astronomy Club, IIT Kanpur!
 
@@ -12,7 +12,7 @@ In case of any query feel free to reach out any of the coordinators:
 [`Mohammad Saad`](https://github.com/saad369)  [💬](mailto:mohdsaad@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans) <br>
 [`Gurbaaz Singh Nandra`](https://github.com/gurbaaz27) [💬](mailto:gurbaaz@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Varun Muralidharan`](https://github.com/Varun2501) [💬](mailto:varunmu@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Sunny Kumar Bhagat`](https://github.com) [💬](mailto:sunny@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
+[`Sunny Kumar Bhagat`](https://github.com/astroclubiitk) [💬](mailto:sunny@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
 </p>
 Happy Stargazing! 🌠 
 
