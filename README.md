@@ -6,7 +6,8 @@ We are a group of highly enthusiastic students from IIT Kanpur who share a commo
 
 This region of space would be devoted to the projects undertaken by the Club, ranging from computational astrophysics to some tiny research work.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=astroclubiitk&show_icons=true&theme=radical" align="right" />
+<p>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=astroclubiitk&show_icons=true&theme=radical" align="right" /> -->
 In case of any query feel free to reach out any of the coordinators:
 
 [`Mohammad Saad`](https://github.com/saad369)  [💬](mailto:mohdsaad@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans) <br>
